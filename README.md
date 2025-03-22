@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Stylish Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4500&width=550&lines=Welcome+to+My+GitHub+Profile!;I'm+Dhananjay+Kumar+Tyagi!;AI+%7C+ML+%7C+MERN+Stack+%7C+Data+Science;Passionate+Coder+and+Problem+Solver">
 </p>
@@ -15,10 +15,39 @@
 ---
 
 ## 🛠️ Tech Stack  
-### **Languages & Frameworks**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,git,html,css,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,git,html,css,postgres,github,figma" />
 </p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🛡️ DeepDefender: AI-Powered Deepfake Detection  
+📌 **Tech Stack:** Python, TensorFlow, CNN, OpenCV  
+🔗 **Repo:** [DeepDefender](#)  
+🚀 **Description:** A deep learning model that detects deepfake images with high accuracy.
+
+---
+
+### 📊 Cryptocurrency Live Data Analysis Tool  
+📌 **Tech Stack:** Python, Pandas, CoinGecko API, Excel  
+🔗 **Repo:** [Crypto Analysis](#)  
+🚀 **Description:** A real-time cryptocurrency analysis tool that updates data every 5 minutes.
+
+---
+
+### 🏏 IPL Analytics Dashboard  
+📌 **Tech Stack:** Power BI, SQL, Pandas  
+🔗 **Repo:** [IPL Dashboard](#)  
+🚀 **Description:** An interactive dashboard analyzing IPL statistics and player performances.
+
+---
+
+### ✉️ E-Mail Spam Detection using Machine Learning  
+📌 **Tech Stack:** Python, Scikit-learn, NLP  
+🔗 **Repo:** [Spam Detector](#)  
+🚀 **Description:** A machine learning model to classify emails as spam or not spam.
 
 ---
 

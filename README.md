@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# Resume Review \& ATS-Friendly Revision
-
-Below is a revised version of your resume that improves formatting for readability, keyword optimization, and ATS compatibility. All key information is clearly structured and spaced for professional appearance.
 
 **Dhananjay Kumar Tyagi**
 HSR Layout, Bangalore, India
@@ -78,7 +73,6 @@ Used Excel to explore sales data, optimize inventory and pricing, segment custom
 
 Let me know if you want this tailored further for a specific job or company!
 
-<div style="text-align: center">⁂</div>
 
 [^1]: Dhananjay-Tyagi-Analyst-Resume.docx.pdf
 

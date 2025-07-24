@@ -64,15 +64,5 @@ Used Excel to explore sales data, optimize inventory and pricing, segment custom
 
 *Open to data analyst positions in Bangalore. Eager to grow skillset and contribute to high-impact business solutions.*
 
-**ATS-Focused Tips:**
 
-- All section headings are standard, making it machine-readable.
-- No graphics, tables, or columns that could cause parsing errors for ATS systems.
-- Direct and consistent use of **keywords** relevant to data analyst roles to improve searchability.
-- Proper margins and line spacing enhance readability for both ATS and human reviewers.
-
-Let me know if you want this tailored further for a specific job or company!
-
-
-[^1]: Dhananjay-Tyagi-Analyst-Resume.docx.pdf
 
